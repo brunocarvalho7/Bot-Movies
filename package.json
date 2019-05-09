@@ -4,7 +4,7 @@
   "description": "Crawler para obter filmes e series on-line",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./bin/server.js"
+    "start": "node ./bin/server.js"
   },
   "author": "Bruno Carvalho",
   "license": "ISC",
